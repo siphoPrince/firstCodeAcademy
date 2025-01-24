@@ -13,7 +13,7 @@ const HomePage = () => {
     window.onYouTubeIframeAPIReady = () => {
       new YT.Player("youtube-player", {
         
-        videoId: "RGPlgvLjbtA", // Replace with your video ID
+        videoId: "BI56_1Niats", // Replace with your video ID
         playerVars: {
           autoplay: 0, // Set to 1 for autoplay
           controls: 1, // Show controls
